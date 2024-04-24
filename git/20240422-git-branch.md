@@ -20,10 +20,10 @@
 6. [git은 습관이 가장 중요!]()
 -->
 
-[Part 3. Branch models]()
+Part 3. Branch models
 
-1. [Branch models]()
-2. [Github flow]()
+1. Branch models
+2. Github flow
 
 [Part 4. Trouble shot]
 
